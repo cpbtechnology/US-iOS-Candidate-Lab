@@ -34,4 +34,4 @@ Write unit tests for the project.
 
 # Notes
 
-Use this area to communicate any thought processes, ideas, or challenges you encountered. If you weren't able to finish all tasks within the allowed time, explain what you would do if you had more time.
+Use this area to communicate any thought processes, ideas, or challenges you encountered. If you run out of time you may explain here where you left off and any work or improvements that would still need to be done.
